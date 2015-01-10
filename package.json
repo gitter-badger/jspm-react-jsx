@@ -1,0 +1,7 @@
+{
+  "jspm": {
+    "dependencies": {
+      "react": "github:reactjs/react-bower@^0.12.2"
+    }
+  }
+}
